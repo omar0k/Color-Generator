@@ -1,3 +1,1 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+#React app to generate different shades of colors
